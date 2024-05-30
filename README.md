@@ -1,4 +1,4 @@
-![Untitled design (9)](https://github.com/Otaymh/Otaymh/assets/142498123/223aad02-b8ee-42ce-ba98-9392136f3c57)
+![Untitled design (9)](https://github.com/Otaymh/Otaymh/assets/142498123/19288463-4385-4b22-8ae5-bbc8442a9428)
 
 
  I am a third-year data science student aiming to become a proficient and professional data scientist. I am confident in my ability to generate interesting and memorable ideas, and I look forward to contributing to impactful projects.
