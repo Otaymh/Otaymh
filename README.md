@@ -17,13 +17,19 @@
  - Email : [otaymhabutaha7@gmail.com](mailto:otaymhabutaha7@gmail.com)
 
 
-🤝  I'm open to collaborating on projects
+
+
 
 ### 📂 Projects 
 
 Sentiment Analysis on The Simpsons Script: Analyzed sentiments from the script of The Simpsons to gain insights
 
 github : https://github.com/MasaAladwan/The_Simpsons_Sentiment_Analysis_
+
+### 🤝  I'm open to collaborating on projects
+
+
+
 
 ### Skills and Tools 
 
