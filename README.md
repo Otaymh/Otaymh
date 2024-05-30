@@ -1,3 +1,4 @@
+![Untitled design (9)](https://github.com/Otaymh/Otaymh/assets/142498123/223aad02-b8ee-42ce-ba98-9392136f3c57)
 
 
  I am a third-year data science student aiming to become a proficient and professional data scientist. I am confident in my ability to generate interesting and memorable ideas, and I look forward to contributing to impactful projects.
@@ -12,8 +13,8 @@
 
  
  ### 📫 Connect With Me
- . <a href="https://www.linkedin.com/in/otaymhabutaha"/>
- . [otaymhabutaha7@gmail.com](mailto:otaymhabutaha7@gmail.com)
+ - LinkedIn : https://www.linkedin.com/in/otaymhabutaha/
+ - Email : [otaymhabutaha7@gmail.com](mailto:otaymhabutaha7@gmail.com)
 
 
 🤝  I'm open to collaborating on projects
@@ -24,7 +25,7 @@ Sentiment Analysis on The Simpsons Script: Analyzed sentiments from the script o
 
 github : https://github.com/MasaAladwan/The_Simpsons_Sentiment_Analysis_
 
-### Skills
+### Skills and Tools 
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
