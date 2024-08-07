@@ -1,7 +1,7 @@
 ![3853c270-285d-497f-8d40-04dba5c78213](https://github.com/Otaymh/Otaymh/assets/142498123/da3cbc75-0633-48a1-a39f-6b58181dca07)
 
 
- I am a third-year data science student aiming to become a proficient and professional data scientist. I am confident in my ability to generate interesting and memorable ideas, and I look forward to contributing to impactful projects.
+ I am a data science student in my senior year aiming to become a proficient and professional data scientist. I am confident in my ability to generate interesting and memorable ideas, and I look forward to contributing to impactful projects.
  
 
  ### 🔭 current work
